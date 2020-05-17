@@ -1,12 +1,3 @@
-### PR checklist
-Please make sure you've passed PR checklist
-- [ ] my PR passes CI checks (flake8 and pycodestyle)
-- [ ] my PR named according guidelines: `Homework2: Name Surname`
-- [ ] my PR contains complete tasks descriptions for all tasks
-- [ ] my PR made from fork feature branch to maxim homework2 branch.
-- [ ] my PR don't contain only code that solves Homework2 tasks.
-Redundant files (configs, etc. ) are put to .gitignore
-
 ### Homework2 evaluation
 - Maximum score is +10 minimum is 0.
 - Completed tasks 1, 3-5 are scored as +5.
